@@ -1,4 +1,4 @@
-package models.supportClasses;
+package models.support;
 
 public class Chevron {
 
